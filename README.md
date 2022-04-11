@@ -14,7 +14,7 @@ I am also a graduate student in Information Systems at UFSC and have a technical
 
 HTML, HTML5, CSS, CSS3, SCSS, JavaScript, TypeScript, Vue.js, Nuxt.js, Vuex, Git, Github, Bitbucket, Npm, Yarn, Amazon Web Services (AWS), Vuetify, Bootstrap, BootstrapVue, Node.js, jQuery, Angular, Ruby on Rails, Python, GraphQL, DynamoDb, MySQL, PHP.
 
-**Where can you find out more about me 👇**
+#### More about me 👇
  
 ![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/viniciuspizettadesouza/)
 
