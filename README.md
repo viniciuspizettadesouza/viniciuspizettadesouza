@@ -2,11 +2,11 @@
 
 #### I have over 8 years of experience working with IT, 4 of those years working with Software Development and another 4 years with Technical Support.
 
-#### I am currently working in the engineering department at Indie Campers as a Frontend Engineer and my goal is to increase my seniority level to become a technical leader.
+I am currently working in the engineering department at Indie Campers as a Frontend Engineer and my goal is to increase my seniority level to become a technical leader.
 
-#### It is part of my routine to develop solutions, review code, test and validate developed resources, using agile methodologies such as scrum.
+It is part of my routine to develop solutions, review code, test and validate developed resources, using agile methodologies such as scrum.
 
-#### I am also a graduate student in Information Systems at UFSC and have a technical level in Digital Games Programming at SENAC.
+I am also a graduate student in Information Systems at UFSC and have a technical level in Digital Games Programming at SENAC.
 
 #### 🚀💻 Technologies I have experience with:
 
