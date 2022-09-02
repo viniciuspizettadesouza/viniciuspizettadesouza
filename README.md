@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-#### I have over 8 years of experience working with IT, 4 of those years working with Software Development and another 4 years with Technical Support.
+#### I have over 8 years of experience working in the IT industry, 4 of them have been in Technical Support and the most recent 4 have been in Software Development.
 
-I am currently working in the engineering department at Indie Campers as a Frontend Engineer and my goal is to increase my seniority level to become a technical leader.
+I currently work in the engineering department at Indie Campers as a Frontend Engineer and my goal is to climb the career ladder and become a technical leader.
 
 It is part of my routine to develop solutions, review code, test and validate developed resources, using agile methodologies such as scrum.
 
