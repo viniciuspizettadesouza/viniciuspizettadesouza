@@ -1,5 +1,15 @@
 ## Hi there 👋
 
-Senior Frontend Engineer with 12+ years of experience in tech, including 8+ years in software development and 4 years in IT support, holding a BSc in Information Systems (UFSC) and an associate degree in Game Programming (Senac). Actively pursuing technical leadership roles to influence system architecture, developer growth, and the ethical integration of AI in engineering workflows.
+I'm a **Senior Full-Stack Engineer** with 8+ years of software development experience and 12+ years in technology.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Vinicius_Souza-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/viniciuspizettadesouza/)
+My strongest background is in **frontend architecture, React, and TypeScript**, with hands-on experience across **Node.js, APIs, databases, authentication, testing, and delivery**.
+
+I'm particularly interested in **software architecture, developer experience, technical leadership, and responsible AI in engineering**.
+
+### Selected work
+
+* **[Engineering Case Studies](https://github.com/viniciuspizettadesouza/engineering-case-studies)** — Architecture, trade-offs, accessibility, testing, and engineering decision-making.
+* **[Auth Lab](https://github.com/viniciuspizettadesouza/auth-lab)** — Modern authentication, identity protocols, application security, and full-stack architecture.
+* **[MercadoZetta](https://github.com/viniciuspizettadesouza/mercadozetta)** — Multi-tenant marketplace built with React, Express, PostgreSQL, Docker, and E2E testing.
+
+[Portfolio](https://viniciuspizettadesouza.github.io/) · [LinkedIn](https://www.linkedin.com/in/viniciuspizettadesouza/)
