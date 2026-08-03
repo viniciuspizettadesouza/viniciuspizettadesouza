@@ -1,5 +1,7 @@
 ## Hi there 👋
 
-Senior Frontend Engineer with 12+ years of experience in tech, including 8+ years in software development and 4 years in IT support, holding a BSc in Information Systems (UFSC) and an associate degree in Game Programming (Senac). Actively pursuing technical leadership roles to influence system architecture, developer growth, and the ethical integration of AI in engineering workflows.
+Senior Full-Stack Engineer with 8+ years of software development experience and 12+ years in technology. Interested in system architecture, developer growth, technical leadership, and the responsible use of AI in engineering.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Vinicius_Souza-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/viniciuspizettadesouza/)
+BSc in Information Systems from UFSC and associate degree in Game Programming from Senac.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Vinicius_Souza-0A66C2?style=flat\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/viniciuspizettadesouza/)
